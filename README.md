@@ -1,4 +1,4 @@
-# Atolagbe Empire #### 🎨 Command Center: UI & Design Update
+# Atolagbe Empire 🎨 Command Center: UI & Design Update
 
 Excellent eye for design, Boss. You are thinking exactly like a CEO optimizing for User Experience (UX). If the button blends into the background, the customer won't see it, which means they won't click it. We need high contrast. 
 
